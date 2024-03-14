@@ -3,6 +3,15 @@
     <style name="Base.Theme.CetesTarea" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/primaryW</item>
+        <item name="colorPrimaryDark">@color/primaryDarkW</item>
+        <item name="colorAccent">@color/textColorW</item>
+        <item name="android:textColorPrimary">@color/textColorW</item>
+        <item name="android:textColorSecondary">@color/textColorW</item>
+        <item name="android:textColor">@color/textColorW</item>
+        <item name="android:windowBackground">@color/activityBacgroundW</item>
+        <item name="android:editTextBackground">@color/accentW</item>
+        <item name="android:colorBackgroundFloating">@color/accentW</item>
     </style>
 
     <style name="Theme.CetesTarea" parent="Base.Theme.CetesTarea" />

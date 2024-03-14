@@ -2,4 +2,20 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#264653</color>
+    <color name="primaryDark">#1E3943</color>
+    <color name="activityBacground">#264653</color>
+    <color name="accent">#2a9d8f</color>
+    <color name="textColor">#e9c46a</color>
+    <color name="secondary">#f4a261</color>
+    <color name="primaryW">#dad7cd</color>
+    <color name="primaryDarkW">#588157</color>
+    <color name="activityBacgroundW">#dad7cd</color>
+    <color name="accentW">#a3b18a</color>
+    <color name="textColorW">#344e41</color>
+
+
+
+
+
 </resources>
